@@ -249,7 +249,7 @@ TextureImporter:
       213: -7079708407035710798
     second: Mobile - Flappy Bird - Version 12 Sprites_81
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -269,6 +269,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -278,8 +280,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -300,10 +302,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -331,6 +337,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2013,6 +2031,86 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Flappy Bird - Version 12 Sprites_55: -7390568835900721232
+      Mobile - Flappy Bird - Version 12 Sprites_81: -7079708407035710798
+      Mobile - Flappy Bird - Version 12 Sprites_17: -5322340071041531647
+      Mobile - Flappy Bird - Version 12 Sprites_64: -4514805892046077403
+      Mobile - Flappy Bird - Version 12 Sprites_6: 6124130483509997730
+      Mobile - Flappy Bird - Version 12 Sprites_71: 7243472915562548880
+      Mobile - Flappy Bird - Version 12 Sprites_57: 5612758388853481413
+      Mobile - Flappy Bird - Version 12 Sprites_4: -6830950117582225322
+      Mobile - Flappy Bird - Version 12 Sprites_37: -5200080295645406206
+      Mobile - Flappy Bird - Version 12 Sprites_51: -8766236444106804462
+      Mobile - Flappy Bird - Version 12 Sprites_3: -514118242663219353
+      Mobile - Flappy Bird - Version 12 Sprites_28: -2306347922404996890
+      Mobile - Flappy Bird - Version 12 Sprites_38: 5698634260912575106
+      Mobile - Flappy Bird - Version 12 Sprites_16: 8181548382722186305
+      Mobile - Flappy Bird - Version 12 Sprites_36: -6839551214000160459
+      Mobile - Flappy Bird - Version 12 Sprites_67: 191857608284174513
+      Mobile - Flappy Bird - Version 12 Sprites_53: 3070810552657499006
+      Mobile - Flappy Bird - Version 12 Sprites_68: 6761572560169963571
+      Mobile - Flappy Bird - Version 12 Sprites_69: 6975628269904033469
+      Mobile - Flappy Bird - Version 12 Sprites_73: 3103654844608862705
+      Mobile - Flappy Bird - Version 12 Sprites_42: -3493463806159466461
+      Mobile - Flappy Bird - Version 12 Sprites_58: -3946434259477265086
+      Mobile - Flappy Bird - Version 12 Sprites_62: -2498072389758807227
+      Mobile - Flappy Bird - Version 12 Sprites_8: 5897210807152635017
+      Mobile - Flappy Bird - Version 12 Sprites_40: -1198990072333430829
+      Mobile - Flappy Bird - Version 12 Sprites_27: 3255952901831296901
+      Mobile - Flappy Bird - Version 12 Sprites_54: 3869963733588150954
+      Mobile - Flappy Bird - Version 12 Sprites_66: -2975282748283157397
+      Mobile - Flappy Bird - Version 12 Sprites_75: -6849601262952108319
+      Mobile - Flappy Bird - Version 12 Sprites_78: -3307974742545668543
+      Mobile - Flappy Bird - Version 12 Sprites_61: 6502591859315168610
+      Mobile - Flappy Bird - Version 12 Sprites_1: -221491057933239876
+      Mobile - Flappy Bird - Version 12 Sprites_44: 4495249375143456610
+      Mobile - Flappy Bird - Version 12 Sprites_32: -9122068741642065400
+      Mobile - Flappy Bird - Version 12 Sprites_19: 4649278624061740554
+      Mobile - Flappy Bird - Version 12 Sprites_52: 6871738779096883307
+      Mobile - Flappy Bird - Version 12 Sprites_10: 5521694834215240920
+      Mobile - Flappy Bird - Version 12 Sprites_12: 8433751597566169029
+      Mobile - Flappy Bird - Version 12 Sprites_26: -7673194365146018806
+      Mobile - Flappy Bird - Version 12 Sprites_46: 7866015679261102617
+      Mobile - Flappy Bird - Version 12 Sprites_41: 1693697968634820213
+      Mobile - Flappy Bird - Version 12 Sprites_80: -5850029005157357063
+      Mobile - Flappy Bird - Version 12 Sprites_60: 1933258764018161309
+      Mobile - Flappy Bird - Version 12 Sprites_34: -3849540773915607897
+      Mobile - Flappy Bird - Version 12 Sprites_77: 9119582767357130973
+      Mobile - Flappy Bird - Version 12 Sprites_63: -7023487787447730388
+      Mobile - Flappy Bird - Version 12 Sprites_23: 6739268201273843614
+      Mobile - Flappy Bird - Version 12 Sprites_21: 5755995480342360952
+      Mobile - Flappy Bird - Version 12 Sprites_31: -6254503077443945986
+      Mobile - Flappy Bird - Version 12 Sprites_39: 3332850698273205949
+      Mobile - Flappy Bird - Version 12 Sprites_48: -1109645456820774316
+      Mobile - Flappy Bird - Version 12 Sprites_49: -6271202071706072646
+      Mobile - Flappy Bird - Version 12 Sprites_50: -5116034788630571233
+      Mobile - Flappy Bird - Version 12 Sprites_20: 4229129803915167851
+      Mobile - Flappy Bird - Version 12 Sprites_33: -5779524432928888368
+      Mobile - Flappy Bird - Version 12 Sprites_79: 1690715625158246458
+      Mobile - Flappy Bird - Version 12 Sprites_2: 7294014354058790825
+      Mobile - Flappy Bird - Version 12 Sprites_65: 3731873145105348143
+      Mobile - Flappy Bird - Version 12 Sprites_18: -3459855430096573399
+      Mobile - Flappy Bird - Version 12 Sprites_14: 2037097137259322841
+      Mobile - Flappy Bird - Version 12 Sprites_59: 8939277565488714815
+      Mobile - Flappy Bird - Version 12 Sprites_22: -4201885668422426124
+      Mobile - Flappy Bird - Version 12 Sprites_47: 1687489963281649004
+      Mobile - Flappy Bird - Version 12 Sprites_56: -60655448821867015
+      Mobile - Flappy Bird - Version 12 Sprites_74: 1358095613425202594
+      Mobile - Flappy Bird - Version 12 Sprites_35: -669485644550663331
+      Mobile - Flappy Bird - Version 12 Sprites_43: 230129452947892208
+      Mobile - Flappy Bird - Version 12 Sprites_7: 6297297506034485570
+      Mobile - Flappy Bird - Version 12 Sprites_15: 1399865248621217857
+      Mobile - Flappy Bird - Version 12 Sprites_30: 7398090637607482551
+      Mobile - Flappy Bird - Version 12 Sprites_72: 2560398875629629500
+      Mobile - Flappy Bird - Version 12 Sprites_9: -8672742685835622642
+      Mobile - Flappy Bird - Version 12 Sprites_45: 875370270028939571
+      Mobile - Flappy Bird - Version 12 Sprites_76: -7182406791380544474
+      Mobile - Flappy Bird - Version 12 Sprites_0: 5003628964238269105
+      Mobile - Flappy Bird - Version 12 Sprites_70: 1643155221146841879
+      Mobile - Flappy Bird - Version 12 Sprites_5: -8998104236824694837
+      Mobile - Flappy Bird - Version 12 Sprites_24: -3575601747525333068
+      Mobile - Flappy Bird - Version 12 Sprites_29: -2036117585404127930
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

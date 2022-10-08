@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEngine.UI;
 
 
 //[RequireComponent(typeof(Renderer))]
@@ -12,7 +11,7 @@ public class MoveOffset : MonoBehaviour
     public float vel = 0.1f;    //Velocidade de deslocamento
 
     public Renderer quad;       //Objeto 3D do tipo Quad
-    //public RawImage rImg;       //Imagem do scroll
+    //public RawImage rImg;     //Imagem do scroll
 
     // Start is called before the first frame update
     void Start()
