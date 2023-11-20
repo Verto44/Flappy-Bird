@@ -6,7 +6,7 @@ O que o projeto possui.
   - Menu principal
   - Física e jogabilidade falcimente editáveis
   - Áudios e animações originais
-  - Painel de game over com animações identicas ao original
+  - Painel de gameover com animações identicas ao original
   - Sistema de score e hi-score
   
   
